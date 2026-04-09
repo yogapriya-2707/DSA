@@ -3,7 +3,7 @@ class Solution {
         int i = 10;
 
         while (i >= 1) {
-            System.out.print(i + " ");
+            System.out.print(n*i + " ");
             i--;
         }
     }
